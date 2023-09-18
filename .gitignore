@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 *.out
 *.exe
 *.vscode
+=======
+*.layout
+*.depend
+bin/
+obj/
+Add.c
+algoritmosC.cbp
+>>>>>>> 07e4742a310b4cdeade865a6be9ee79f3057c16c
